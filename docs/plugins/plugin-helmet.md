@@ -46,7 +46,7 @@ export default Application;
 ### 标题闪一下没了
 
 react-helmet 与 umi 中的 title 配置不能同时使用，可以通过配置 `title: false` 关闭默认标题配置
-
+### 具体在怎么使用在哪个文件，哪个目录下使用，谁能说清楚？
 ### 内容被编码
 
 可配置 Helmet 组件属性 `encodeSpecialCharacters`，来关闭内容被编码
